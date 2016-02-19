@@ -472,7 +472,7 @@
 					"$(PROJECT_DIR)/EncryptionApp/build/Release-iphoneos",
 					"$(PROJECT_DIR)/EncryptionApp/build/Release-iphonesimulator",
 				);
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = Arthur.EncryptionApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -495,7 +495,7 @@
 					"$(PROJECT_DIR)/EncryptionApp/build/Release-iphoneos",
 					"$(PROJECT_DIR)/EncryptionApp/build/Release-iphonesimulator",
 				);
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = Arthur.EncryptionApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
